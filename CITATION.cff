@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: China Multiple Myeloma Clinical Trials Open Dataset
+message: If you use this dataset, please cite it as below.
+type: dataset
+authors:
+  - name: "CMDN Editorial Team"
+    website: "https://chinamyeloma.org"
+    email: contact@chinamyeloma.org
+    affiliation: "China Myeloma Digital Network"
+license: CC-BY-4.0
+repository-code: "https://github.com/chinamyeloma/china-myeloma-clinical-trials"
+url: "https://chinamyeloma.org/en/clinical-trials/dataset"
+abstract: >-
+  Open dataset of multiple myeloma clinical trials registered in China,
+  curated by CMDN from NMPA/CDE public filings with normalized trial
+  centers, target populations and registry status.
+keywords:
+  - multiple myeloma
+  - clinical trials
+  - China
+  - NMPA
+  - CDE
+  - CAR-T
+version: "2026-09"
+date-released: 2026-09-09
