@@ -17,7 +17,7 @@ This dataset closes that gap: one record per trial, normalised fields, deduplica
 
 | | |
 |---|---|
-| Snapshot date | **2026-09-09** |
+| Snapshot date | **2026-09-10** |
 | Trials | **71** (70 recruiting) |
 | Deduplicated study centres | **554** (China 337, overseas 217) |
 | Chinese provincial-level regions covered | **31** |

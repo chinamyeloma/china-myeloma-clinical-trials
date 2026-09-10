@@ -1,6 +1,6 @@
-## 2026-09-09
+## 2026-09-10
 
-- generatedAt: `2026-09-09T14:55:41.738Z`
+- generatedAt: `2026-09-10T14:35:24.345Z`
 - Trials: **71** (recruiting: 70)
 - Unique recruiting centers after name cleaning: **554** (China 337, overseas 217)
 - Chinese provincial-level regions covered (recruiting studies only): **31**
