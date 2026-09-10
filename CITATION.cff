@@ -8,6 +8,14 @@ authors:
     email: contact@chinamyeloma.org
     affiliation: "China Myeloma Digital Network"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.22690814
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22690814
+    description: Concept DOI (all versions)
+  - type: doi
+    value: 10.5281/zenodo.22690815
+    description: Version DOI for snapshot 2026-09
 repository-code: "https://github.com/chinamyeloma/china-myeloma-clinical-trials"
 url: "https://chinamyeloma.org/en/clinical-trials/dataset"
 abstract: >-

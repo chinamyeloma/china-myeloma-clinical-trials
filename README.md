@@ -1,5 +1,10 @@
 # china-myeloma-clinical-trials
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22690814.svg)](https://doi.org/10.5281/zenodo.22690814)
+
 Open dataset of multiple myeloma clinical trials registered in China, curated from NMPA/CDE filings with normalized trial centers, populations and registry status. CC BY 4.0.
+
+**Cite this dataset:** https://doi.org/10.5281/zenodo.22690814 (Concept DOI; always points to the latest version). The 2026-09 snapshot is https://doi.org/10.5281/zenodo.22690815.
 
 ## License
 
