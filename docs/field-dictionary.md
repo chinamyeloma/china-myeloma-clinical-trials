@@ -11,7 +11,7 @@ The CSV exports flatten the same records: array values are joined with ` | `, an
 
 | Field | Type | Description |
 |---|---|---|
-| `generatedAt` | ISO 8601 | When this snapshot was produced (`2026-09-10T14:35:24.345Z`) |
+| `generatedAt` | ISO 8601 | When this snapshot was produced (`2026-09-10T17:36:37.610Z`) |
 | `summary` | object | Pre-computed counts. **Read these rather than aggregating records yourself** — see [methodology](methodology.md#counting-conventions) |
 | `trials` | object | Keyed by trial `id` |
 

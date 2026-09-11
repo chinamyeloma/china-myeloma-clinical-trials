@@ -68,7 +68,7 @@ Criteria are reproduced in Chinese as filed. They are a transcription of a sourc
 
 Each release is a point-in-time snapshot, labelled by snapshot month (`2026-09`) and tagged in Git. Corrections are applied to the next release rather than silently to a published one, so a citation to a specific version always resolves to the data as it was.
 
-`generatedAt` in the JSON (`2026-09-10T14:35:24.345Z`) is authoritative for what a given release contains.
+`generatedAt` in the JSON (`2026-09-10T17:36:37.610Z`) is authoritative for what a given release contains.
 
 Every release is archived to Zenodo and receives its own version DOI, all grouped under one concept DOI. Cite the concept DOI unless your work depends on one exact snapshot.
 

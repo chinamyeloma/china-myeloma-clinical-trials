@@ -15,7 +15,7 @@ identifiers:
 repository-code: "https://github.com/chinamyeloma/china-myeloma-clinical-trials"
 url: "https://chinamyeloma.org/en/clinical-trials/dataset"
 abstract: >-
-  Open dataset of multiple myeloma clinical trials registered in mainland China,
+  Open dataset of multiple myeloma clinical trials registered in China,
   curated by CMDN from official NMPA/CDE public filings with normalised and
   deduplicated study centres, registry status tiers, structured eligibility
   criteria, and an archived PDF of the original filing behind every record.

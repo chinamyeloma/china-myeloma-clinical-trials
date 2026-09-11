@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22690814.svg)](https://doi.org/10.5281/zenodo.22690814)
 
-A machine-readable dataset of multiple myeloma clinical trials registered in mainland China, curated from official NMPA / CDE filings by the [China Myeloma Digital Network (CMDN)](https://chinamyeloma.org), an independent non-profit patient advocacy organisation.
+A machine-readable dataset of multiple myeloma clinical trials registered in China, curated from official NMPA / CDE filings by the [China Myeloma Digital Network (CMDN)](https://chinamyeloma.org), an independent non-profit patient advocacy organisation.
 
 Copyright © 2026 China Myeloma Digital Network (chinamyeloma.org).
 Released under the [Creative Commons Attribution 4.0 International License](LICENSE) (CC BY 4.0) — use it, redistribute it, build on it, commercially or not. The one condition is attribution: credit CMDN and link back. See [How to cite](#how-to-cite).
@@ -56,7 +56,7 @@ Every record traces back to a primary document.
 Stated plainly, because a dataset you can't judge is a dataset you shouldn't cite.
 
 - **Snapshot, not a live feed.** Each release is a point-in-time capture. Trial status changes between releases.
-- **Myeloma only, mainland China only.** Not a general oncology registry.
+- **Myeloma only, China-registered trials only.** Not a general oncology registry. Hong Kong, Macau and Taiwan count as Chinese provincial-level regions in centre tallies.
 - **Titles and centre names are in Chinese**, as filed. No machine translation is applied, because translating institution names introduces ambiguity that dedupe cannot recover from.
 - **`population` is derived by CMDN**, not an official CDE field, and mixes granularities — it currently takes the values `复发难治` 53 · `多发性骨髓瘤` 12 · `健康受试者` 2 · `新诊断` 2 · `新诊断/复发难治` 1 · `新诊断/维持治疗` 1.
 - **`therapy_types` uses a mixed vocabulary.** Labels are currently `monoclonal_antibody` 17 · `bispecific_antibody` 17 · `CAR-T` 16 · `small_molecule` 9 · `antibody_drug_conjugate` 3 · `三抗` 2 · `cell_therapy` 1 · `ADC` 1 · `单抗` 1: some Chinese, some English snake_case, and `ADC` / `antibody_drug_conjugate` denote the same modality. Match on the set, not on a single spelling.
